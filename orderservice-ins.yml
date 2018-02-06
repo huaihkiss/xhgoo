@@ -12,5 +12,5 @@ spring:
     password: huaihz
     type: com.alibaba.druid.pool.DruidDataSource
     driver-class-name: com.mysql.jdbc.Driver
-    url: jdbc:mysql://104.161.98.3:3306/vpn
+    url: jdbc:mysql://104.161.98.3:3306/microservice
     username: root
